@@ -6,35 +6,35 @@ The editor exists of 2 main modes.
 
 
 Functions (keyboard options) in character editor.
-* s = Character left
-* d = Character right
-* e = Character up
-* x = character down
-* Cursor-left	= In Character edit left
-* Cursor-right = In Character edit right
-* Cursor-up = In Character edit up
-* CursorDown = In Character edit down
-* F5   CharCol+1
-* 4    MultiCol1UpNext
-* 5    MultiCol2UpNext
-* 6    BackColUpNext
-* 1    SetPixelMulti1
-* 2    SetPixelMulti2
-* 3    SetPixelCol
-* Space ClearPixel
-* X 	Clear editchar
-* L 	LoadLevel
-* S 	SaveLevel
-* Q 	FillEditCharCol1
-* W 	FillEditCharCol2
-* E 	FillEditCharCol3
-* F1	GotoLevelEdit
-* r		RepeatKeys
-* 9 BackCol Down
-* 7 MultiCol1 Down
-* 8 MultiCol2 Down
-* u UpDownMode
-* c Copy characters in charedit
-* F6  CharCol-1
-* F7  ShowDirectory
-* CTRL + u Fill unused chars
+* s = In characterset left
+* d = In characterset right
+* e = In characterset up
+* x = In characterset down
+* Cursor-left	= In character edit left
+* Cursor-right = In character edit right
+* Cursor-up = In character edit up
+* CursorDown = In character edit down
+* F1 = Goto leveleditor
+* F5 = Next character color
+* F6 = Previous character color
+* F7 = Show directory
+* 1 = Set pixel multicolor 1
+* 2 = Set pixel multicolor 2
+* 3 = Set pixel character color
+* 4 = Next multicolor 1 
+* 5 = Next multicolor 2
+* 6 = Next background color
+* 7 = Previous multicolor 1
+* 8 = Previous multicolor 2
+* 9 = Previous background color
+* Space = Clear pixel
+* X = Clear editchar
+* L = Load level
+* S = Save level
+* Q = Fill character with multicolor 1
+* W = Fill character with multicolor 2
+* E = Fill character with character color
+* r = RepeatKeys
+* u = UpDownMode
+* c = Copy characters in characterset
+* CTRL + u = Fill unused characters
