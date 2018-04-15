@@ -1,18 +1,19 @@
 # Flimbo leveleditor and levels
 
 The editor exists of 2 main modes.
-* Level editor
 * Character editor
+* Level editor
 
-Functions (keyboard options) in editor
-* s CharLeft
-* d CharRight
-* e CharUp
-* x CharDown
-* CursorLeft	CharEditPixelXMin
-* CursorRight	CharEditPixelXPlus
-* CursorUp		CharEditPixelYMin
-* CursorDown	CharEditPixelYPlus
+
+Functions (keyboard options) in character editor.
+* s = Character left
+* d = Character right
+* e = Character up
+* x = character down
+* Cursor-left	= In Character edit left
+* Cursor-right = In Character edit right
+* Cursor-up = In Character edit up
+* CursorDown = In Character edit down
 * F5   CharCol+1
 * 4    MultiCol1UpNext
 * 5    MultiCol2UpNext
