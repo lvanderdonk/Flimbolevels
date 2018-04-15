@@ -1,10 +1,10 @@
 # Flimbo leveleditor and levels
 
 The editor exists of 2 main modes.
-*Level editor
-*Character editor
+* Level editor
+* Character editor
 
-
+Functions (keyboard options) in editor
 * s CharLeft
 * d CharRight
 * e CharUp
