@@ -1,9 +1,18 @@
 # Flimbo leveleditor and levels
 
+This repository is used for hosting the Flimbo level editor and levels. The repository is not used for source control of the editor. Please find some technical details and a small guide of the editor below.
+
+# Getting started
+
+Level details.
+* 1 Characterset (4 charactersets for parallax scrolling)
+* 18 Lines of characters
+* 400 Characters wide (10 screens)
+* Parallax 10 lines of characters
+
 The editor exists of 2 main modes.
 * Character editor
 * Level editor
-
 
 Functions (keyboard options) in character editor.
 * s = In characterset left
@@ -13,7 +22,7 @@ Functions (keyboard options) in character editor.
 * Cursor-left	= In character edit left
 * Cursor-right = In character edit right
 * Cursor-up = In character edit up
-* CursorDown = In character edit down
+* Cursor-down = In character edit down
 * F1 = Goto leveleditor
 * F5 = Next character color
 * F6 = Previous character color
