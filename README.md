@@ -24,7 +24,7 @@ The download consists of a D64 image file. You can use the disk image in Vice (C
 
 The D64 image file contains the Flimbo level editor and all 7 levels of Flimbo's Quest.
 
-Startup Vice, Goto file (top menu), Attach disk image, Drive 8. Choose the downloaded disk image "Flimbo levels".
+Startup Vice, Goto file (top menu), Attach disk image, Drive 8. Choose the downloaded disk image "Flimbo Levels.d64".
 
 Once attached. Type: LOAD"FLIMBO-EDITOR",8 [Enter] .  And type RUN [Enter]
   
