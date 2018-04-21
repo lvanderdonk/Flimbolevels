@@ -3,8 +3,17 @@
 This repository is used for hosting the Flimbo level editor and levels. The repository is not used for source control of the editor. Please find some technical details and a small guide of the editor below.
 
 # Getting started
-The download consists of a D64 image file. You can use the disk image in Vice (C64 emulator). You can download Vice here http://vice-emu.sourceforge.net/index.html#download 
+The download consists of a D64 image file. You can use the disk image in Vice (C64 emulator). You can download Vice here: http://vice-emu.sourceforge.net/index.html#download 
 
+Startup Vice, Goto file (top menu), Attach disk image, Drive 8. Choose the downloaded disk image "Flimbo levels".
+
+Once attached. Type: LOAD"FLIMBO-EDITOR",8 <Enter> .  And type RUN <Enter>
+  
+In the editor press: L  (shift+l) and type the name of the level:
+Names of the levels:
+* LEVEL1
+* LEVEL2
+etc. To LEVEL7
 
 # Glossary
 * Character editor = For editing the characterset. The characters in a characterset are the building blocks for a level.
@@ -22,6 +31,8 @@ Level details.
 The editor exists of 2 main modes.
 * Character editor
 * Level editor
+
+Below are the options of the editor. Take care of the capital keyboard options.
 
 Functions (keyboard options) in character editor.
 * s = In characterset left
