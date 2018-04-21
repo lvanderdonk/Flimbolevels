@@ -5,7 +5,7 @@ This repository is used for hosting the Flimbo's Quest level editor and levels. 
 If you find any errors, and there will be errors ;-) , on this page or any errors in the level editor. Please inform me by sending a personal message to https://www.facebook.com/laurensvanderdonk , I will try to fix the errors and update this page. This is an ongoing project. 
 
 # The editor
-The editor was used in 1989/1990 to build the levels for Flimbo's Quest on the Commodore 64. The editor is written in 6502 assembly code by Laurens van der Donk. It is specially made for flimbo's Quest.
+The editor was used in 1989/1990 to build the levels for Flimbo's Quest on the Commodore 64. The editor is written in 6502 assembly code by Laurens van der Donk. It is specially made for Flimbo's Quest.
 
 # Flimbo's Quest
 Is a game for the commodore 64 and several other platforms. The game was published in 1990. 
