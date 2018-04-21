@@ -4,11 +4,17 @@ This repository is used for hosting the Flimbo level editor and levels. The repo
 
 # Getting started
 
+# Glossary
+* Character editor = For editing the characterset. The characters in a characterset are the building blocks for a level.
+* Level editor = For editing the level. You build a level with the characters created in the character editor. In the level editor you can edit the foreground and background(parallax). You can also edit the data on which Flimbo and the enemies can walk on(see bumpdata).
+* Bumpdata = You can assign bumpdata to characters. It is the data on which FLimbo and the enemies can walk on.
+
 Level details.
 * 1 Characterset (4 charactersets for parallax scrolling)
 * 18 Lines of characters
 * 400 Characters wide (10 screens)
 * Parallax 10 lines of characters
+* 3 Colors. 2 Multicolors, 1 character color
 
 The editor exists of 2 main modes.
 * Character editor
