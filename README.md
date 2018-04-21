@@ -120,6 +120,6 @@ Functions (keyboard options) in level editor.
 * CTRL + n = Background char start
 * CTRL + m = Background char end
 * < = Scroll left to right
-* > = Scroll right to left
+* &gt; = Scroll right to left
 * . = Scroll left to right 40 characters
 * , = Scroll right to left 40 characters
