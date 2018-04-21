@@ -35,7 +35,7 @@ etc. To LEVEL7
 # Glossary
 * Character editor = For editing the characterset. The characters in a characterset are the building blocks for a level.
 * Level editor = For editing the level. You build a level with the characters created in the character editor. In the level editor you can edit the foreground and background(parallax). You can also edit the data on which Flimbo and the enemies can walk on(see bumpdata).
-* Bumpdata = You can assign bumpdata to characters. It is the data on which FLimbo and the enemies can walk on.
+* Bumpdata = You can assign bumpdata to characters. It is the data on which Flimbo and the enemies can walk on.
 
 Level details.
 * 1 Characterset (4 charactersets for parallax scrolling)
