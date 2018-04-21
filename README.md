@@ -1,6 +1,6 @@
 [I'm a relative reference to a repository file](../master/Flimbo%20Editor%20and%20Levels.d64)
 
-[Download my book!](../master/Flimbo%20Editor%20and%20Levels.d64)
+[Download my book!](../master/Flimbo%20Editor%20and%20Levels.zip)
 
 # Flimbo level editor and levels
 
