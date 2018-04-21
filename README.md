@@ -1,4 +1,4 @@
-[I'm a relative reference to a repository file](../blob/master/Flimbo%20Editor%20and%20Levels.d64)
+[I'm a relative reference to a repository file](../master/Flimbo%20Editor%20and%20Levels.d64)
 
 # Flimbo level editor and levels
 
