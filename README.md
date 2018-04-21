@@ -5,7 +5,7 @@ This repository is used for hosting the Flimbo's Quest level editor and levels. 
 If you find any errors, and there will be errors ;-) , on this page or any errors in the level editor. Please inform me by sending a personal message to https://www.facebook.com/laurensvanderdonk , I will try to fix the errors and update this page. This is an ongoing project.
 
 # Download
-[Klik here to go to download section](../master/Flimbo%20Editor%20and%20Levels.d64) , then click the download button on the right.
+[Klik here for the download section](../master/Flimbo%20Editor%20and%20Levels.d64) , then click the download button on the right.
 
 # The editor
 The editor was used in 1989/1990 to build the levels for Flimbo's Quest on the Commodore 64. The editor is written in 6502 assembly code by Laurens van der Donk. It is specially made for Flimbo's Quest.
