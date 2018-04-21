@@ -1,6 +1,8 @@
 # Flimbo level editor and levels
 
-This repository is used for hosting the Flimbo's Quest level editor and levels. The repository is not used for source control of the editor. Please find some technical details and a small guide of the editor below. 
+This repository is used for hosting the Flimbo's Quest level editor and levels. The repository is not used for source control of the editor. Please find some technical details and a small guide of the editor below.
+
+If you find any errors on this page or any errors in the level editor. Please inform me, I will try to fix the errors. This is an ongoing project. 
 
 # The editor
 The editor was used in 1989/1990 to build the levels for Flimbo's Quest on the Commodore 64. The editor is written in 6502 assembly code by Laurens van der Donk. It is specially made for flimbo's Quest.
@@ -18,7 +20,7 @@ Is a game for the commodore 64 and several other platforms. The game was publish
 # Getting started with the editor
 The download consists of a D64 image file. You can use the disk image in Vice (C64 emulator). You can download Vice here: http://vice-emu.sourceforge.net/index.html#download
 
-The D64 image file contains the Flimbo level editor and all 7 levels of Flimbo's quest.
+The D64 image file contains the Flimbo level editor and all 7 levels of Flimbo's Quest.
 
 Startup Vice, Goto file (top menu), Attach disk image, Drive 8. Choose the downloaded disk image "Flimbo levels".
 
@@ -95,11 +97,28 @@ Functions (keyboard options) in level editor.
 * F1 = Goto character editor
 * F3 = Switch foreground/background mode
 * F7 = Show directory
+* 4 = Next multicolor 1 
+* 5 = Next multicolor 2
+* 6 = Next background color
+* 7 = Previous multicolor 1
+* 8 = Previous multicolor 2
+* 9 = Previous background color
+* Space = Clear character in level
+* Enter = Place character in level
+* Shift+Enter = Goto character of level
 * L = Load level
 * S = Save level
 * B = Bumpdata
+* X = Block copy start
+* C = Block copy end
+* V = Block copy paste
+* b = Bumpdata
+* u = Switch colors between top / bottom
 * w = Hide foreground
 * r = RepeatKeys
+* CTRL + u = Fill unused chars
+* CTRL + n = Background char start
+* CTRL + m = Background char end
 * < = Scroll left to right
 * > = Scroll right to left
 * . = Scroll left to right 40 characters
