@@ -60,7 +60,6 @@ Functions (keyboard options) in level editor.
 * F1 = Goto character editor
 * F3 = Switch foreground/background mode
 * F7 = Show directory
-
 * L = Load level
 * S = Save level
 * B = Bumpdata
