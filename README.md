@@ -41,6 +41,8 @@ Please be patient while the levels are loading. (Screen will be black for some t
 * Level editor = For editing the level. You build a level with the characters created in the character editor. In the level editor you can edit the foreground and background(parallax). You can also edit the data on which Flimbo and the enemies can walk on(see bumpdata).
 * Bumpdata = You can assign bumpdata to characters. It is the data on which Flimbo and the enemies can walk on.
 
+# Editor
+
 Level details.
 * 1 Characterset (4 charactersets for parallax scrolling)
 * 18 Lines of characters
