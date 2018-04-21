@@ -47,3 +47,26 @@ Functions (keyboard options) in character editor.
 * u = UpDownMode
 * c = Copy characters in characterset
 * CTRL + u = Fill unused characters
+
+Functions (keyboard options) in level editor.
+* s = In characterset left
+* d = In characterset right
+* e = In characterset up
+* x = In characterset down
+* Cursor-left	= In level left
+* Cursor-right = In level right
+* Cursor-up = In level up
+* Cursor-down = In level down
+* F1 = Goto character editor
+* F3 = Switch foreground/background mode
+* F7 = Show directory
+
+* L = Load level
+* S = Save level
+* B = Bumpdata
+* w = Hide foreground
+* r = RepeatKeys
+* < = Scroll left to right
+* > = Scroll right to left
+* . = Scroll left to right 40 characters
+* , = Scroll right to left 40 characters
