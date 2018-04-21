@@ -81,7 +81,7 @@ Functions (keyboard options) in character editor.
 * W = Fill character with multicolor 2
 * E = Fill character with character color
 * r = RepeatKeys
-* u = UpDownMode
+* u = Switch colors between top / bottom
 * c = Copy characters in characterset
 * CTRL + u = Fill unused characters
 
