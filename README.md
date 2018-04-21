@@ -42,7 +42,7 @@ Level details.
 * 18 Lines of characters
 * 400 Characters wide (10 screens)
 * Parallax 10 lines of characters
-* 3 Colors. 2 Multicolors, 1 character color
+* 3 Colors. 2 Multicolors, 1 character color (Switched multicolors on line 17 and 18)
 * Consists of 3 files, LV> (Level) , CH> (Characterset), CO> (Character colors)
 
 The editor exists of 2 main modes.
