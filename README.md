@@ -24,7 +24,7 @@ The D64 image file contains the Flimbo level editor and all 7 levels of Flimbo's
 
 Startup Vice, Goto file (top menu), Attach disk image, Drive 8. Choose the downloaded disk image "Flimbo levels".
 
-Once attached. Type: LOAD"FLIMBO-EDITOR",8 <Enter> .  And type RUN <Enter>
+Once attached. Type: LOAD"FLIMBO-EDITOR",8 [Enter] .  And type RUN [Enter]
   
 In the editor press: L  (shift+l) and type the name of the level:
 Names of the levels:
