@@ -3,6 +3,8 @@
 This repository is used for hosting the Flimbo level editor and levels. The repository is not used for source control of the editor. Please find some technical details and a small guide of the editor below.
 
 # Getting started
+The download consists of a D64 image file. You can use the disk image in Vice (C64 emulator). You can download Vice here http://vice-emu.sourceforge.net/index.html#download 
+
 
 # Glossary
 * Character editor = For editing the characterset. The characters in a characterset are the building blocks for a level.
@@ -15,6 +17,7 @@ Level details.
 * 400 Characters wide (10 screens)
 * Parallax 10 lines of characters
 * 3 Colors. 2 Multicolors, 1 character color
+* Consists of 3 files, LV> (Level) , CH> (Characterset), CO> (Character colors)
 
 The editor exists of 2 main modes.
 * Character editor
