@@ -3,12 +3,17 @@
 This repository is used for hosting the Flimbo's Quest level editor and levels. The repository is not used for source control of the editor. Please find some technical details and a small guide of the editor below. 
 
 # The editor
-The editor was used in 1989/1990 to build the levels for Flimbo's Quest on the Commodore 64. The editor is written in 6502 assembly code by Laurens van der Donk. 
+The editor was used in 1989/1990 to build the levels for Flimbo's Quest on the Commodore 64. The editor is written in 6502 assembly code by Laurens van der Donk. It is specially made for flimbo's Quest.
 
 # Flimbo's Quest
-Is a game for the commodore 64 and several other platforms. The game was published in 1990.
+Is a game for the commodore 64 and several other platforms. The game was published in 1990. 
 
-# Getting started
+# Credits Flimbo's Quest C64
+* Programmed by: Laurens van der Donk
+* Game design by: Jacco van het Riet, Arthur van Jole, Laurens van der Donk
+* 
+
+# Getting started with the editor
 The download consists of a D64 image file. You can use the disk image in Vice (C64 emulator). You can download Vice here: http://vice-emu.sourceforge.net/index.html#download
 
 The D64 image file contains the Flimbo level editor and all 7 levels of Flimbo's quest.
