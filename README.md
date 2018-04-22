@@ -20,7 +20,7 @@ Is a game for the commodore 64 and several other platforms. The game was publish
 * Game design by: Jacco van het Riet, Arthur van Jole, Laurens van der Donk
 * Graphics by: Arthur van Jole, Jacco van het Riet
 * Music by: Johannes Bjerregaard, Reyn Ouwehand
-* Demo by: Patrick Witteman + (will be added in the next days...)
+* Demo by: Patrick Witteman, Dave Hogendorf
 
 # Getting started with the editor
 The download consists of a D64 image file. You can use the disk image in Vice (C64 emulator). You can download Vice here: http://vice-emu.sourceforge.net/index.html#download
