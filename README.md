@@ -1,6 +1,6 @@
 # Flimbo level editor and levels
 
-This repository is used for hosting the Flimbo's Quest level editor and levels. The repository is not used for source control of the editor. Please find some technical details and a small guide of the editor below.
+This repository is used for hosting the Flimbo's Quest level editor and levels. The repository is not used for source control of the editor, but you can download the current source code "LevelEditor.asm". Please find some technical details and a small guide of the editor below.
 
 If you find any errors, and there will be errors ;-) , on this page or any errors in the level editor. Please inform me by sending a personal message to https://www.facebook.com/laurensvanderdonk , I will try to fix the errors and update this page. This is an ongoing project.
 
